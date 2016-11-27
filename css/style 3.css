@@ -1,0 +1,33 @@
+h1{
+	color: #1f7c55;
+	font-family: "Futura", "Times new roman";
+	font-size: 50px;
+}
+h2{
+	color: #387542;
+	font-family: Times;
+	font-size: 30px;
+	text-align: left;
+}
+
+body{
+	background-color: #b27b0e;
+	font-family: Georgia;
+	font-size: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: justify;
+	text-justify : inter-word;
+}
+.Studies{
+	text-justify : none;
+}
+.Button{
+	background-color: blue;
+}
+.bg-img {
+	background-image: url("../img/Anthro.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 30px -120px;
+}
