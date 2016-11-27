@@ -7,7 +7,16 @@ h2{
 	color: #387542;
 	font-family: Times;
 	font-size: 30px;
+}
+
+.text-align-left{
 	text-align: left;
+}
+
+.red-text{
+	color: #ad4316;
+	font-family: Times;
+	font-size: 30px;
 }
 
 body{
@@ -30,4 +39,21 @@ body{
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 30px -120px;
+}
+.Anthropology{
+	margin-right: auto;
+	margin-left:auto;
+}
+.Skills{
+	color: #ad4316;
+	font-family: Times;
+	font-size: 30px;
+	text-align: left;
+}
+.unordered-list{
+	display: inline-block;
+}
+
+.carousel img {
+    min-width: 100%;
 }
